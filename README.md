@@ -8,4 +8,4 @@ At the end of each round, the game displays a final result showing the fish sele
 Overall, the purpose of this game is to practice beginner C++ in a fun and interactive way. The game uses choices, menus, messages, and results to help show how C++ can be used to create a simple real-life themed program. It also introduces players to different fish and bait options while keeping the game easy to understand and enjoyable to play.
 
 Because the screen record button covered my play mode for my code so I have to pause and start another one as a game playing from the code. I will attach my two video of youtube link here, this is my first video (https://youtu.be/5tlkMyKCx48), this is my second (https://youtu.be/tpvWpdNiZBY).
-Also I attach my issue that I comment on one of the classmate project as a part of my final presentation grade (https://github.com/Grizky21/COSC-1436-001/issues/2).
+Also I attach my new issue that I comment on one of the classmate project as a part of my final presentation grade for peer feedback participation (https://github.com/Grizky21/COSC-1436-001/issues/2).
